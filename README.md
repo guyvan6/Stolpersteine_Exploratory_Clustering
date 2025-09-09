@@ -23,6 +23,8 @@ Project Structure 📂
 
 - stolpersteine_clusters_map.html: An interactive map showcasing the final clustering results, with each cluster color-coded for clarity.
 
+*The files can be found in the "data and reports" folder.
+
 Methodology 💻
 
 - The analysis followed a clear two-step methodology:
