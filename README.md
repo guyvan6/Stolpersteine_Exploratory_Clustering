@@ -15,11 +15,11 @@ The project began in 1996 and has since grown to become the world's largest dece
 
 Project Structure 📂
 
-- stolpersteine_DAN_HAG.xlsx: The raw dataset containing information about the Stolpersteine in The Hague.
+- stolpersteine_DAN_HAG_DATA.xlsx: The raw dataset containing information about the Stolpersteine in The Hague.
 
 - elbow_method_plot.png: The plot generated to determine the optimal number of clusters for the K-Means algorithm.
 
-- EDA_Report.html: An automated report detailing the initial data exploration and a summary of the dataset.
+- stolpersteine_EDA_Report.html: An automated report detailing the initial data exploration and a summary of the dataset.
 
 - stolpersteine_clusters_map.html: An interactive map showcasing the final clustering results, with each cluster color-coded for clarity.
 
